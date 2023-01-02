@@ -1,0 +1,7 @@
+What is Devops & why Devops is important?
+- Devops is a methodology, it is a combination of two words development(Dev) and operation(Ops).In Devops we can automate the whole infrastruture with the help of tools,It is an important for the continuous integration for fast and better softwares development process also maintaining the deployed softwares.
+
+What is Automation, Scaling & Infrastruture?
+- #Automation is the use of technology to perform tasks with reduced human assistances.Automation helps you accelerate processes and scale environments, as well as build continuous integration, continuous delivery & continuous deployment(CI/CD) workflow.
+- #Scaling in devops is characterized as an automation-driven environment where developers or enterprises can adopt Devops culture and choose the right techologies to scale their business growth.
+- #Infrastruture is the process of managing and provisioning computer data centers through machine-readable defination files, rather than physical hardware configuration or interactive configuration tools.
